@@ -13,7 +13,6 @@ Credit Card Fraudulent Transaction detection: legitimate(0) or fraud(1)
 Pass(1)/Fail(0) based on study hours
 
 
-
 Logisitic Hyphthesis
 
 H(x) = 1 / 1 + e ^ -W ^ T - X
