@@ -3,7 +3,7 @@
 Today is rainy day. work hard. not bad.  
 
 I worked hard at the company.  
-Because the person who quit the job left lots of stuck  should be done immediately.  
+Because the person who quit the job left lots of stuff  should be done immediately.  
 I know It's suck.  
 But What can i say?  
 If I have to do this.. better do it quickly!  
