@@ -73,4 +73,3 @@ I'm in charged. 나 책임자.
 I'm an early riser. 나 일찍 일어남.
 I'm always on your side.
 I'm about to go out.
-
