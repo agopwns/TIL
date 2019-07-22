@@ -49,7 +49,6 @@ public class CalculatorDemo{
         System.out.println(c1.avg()); // 결과 15
 
     }
-
 }
 
 ### 끝으로
