@@ -1,8 +1,6 @@
 ### load balancing 부하 분산이란?
 > load 짐, 싣다 + balancing 분산  
 
-<img src="https://user-images.githubusercontent.com/29882066/86076576-46f4e680-bac5-11ea-9595-b8df0e39f063.png" alt="LoadBalancerExample" width="99%"/> 
-
 싣는 것을 분산한다. 짐(부하)을 분산한다 로 해석이 가능하며 IT관점에서는 CPU, 저장장치의 컴퓨터 자원을 분산 혹은 서버로 들어오는 트래픽을 분산하는 개념으로 볼 수 있다.
 
 ### 사용 이유
@@ -11,6 +9,9 @@
 - 서버 다운, 백업 등의 경우 안정성을 부여
 
 ### ELB(Elastic Load Balancer)
+
+<img src="https://user-images.githubusercontent.com/29882066/86076576-46f4e680-bac5-11ea-9595-b8df0e39f063.png" alt="LoadBalancerExample" width="99%"/> 
+
 유연한 부하 분산을 의미하며 트래픽이 접근 했을 때 가장 먼저 받는 진입점 역할을 하여 분산한 트래픽을 각 서버에게 나눠준다.
 
 - 트래픽 분산
