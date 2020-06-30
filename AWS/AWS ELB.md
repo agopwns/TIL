@@ -1,7 +1,7 @@
 ### load balancing 부하 분산이란?
 > load 짐, 싣다 + balancing 분산  
 
-<img src="https://ko.wikipedia.org/wiki/%EB%B6%80%ED%95%98%EB%B6%84%EC%82%B0#/media/%ED%8C%8C%EC%9D%BC:Elasticsearch_Cluster_August_2014.png" alt="LoadBalancerExample" width="99%"/> 
+<img src="https://user-images.githubusercontent.com/29882066/86076576-46f4e680-bac5-11ea-9595-b8df0e39f063.png" alt="LoadBalancerExample" width="99%"/> 
 
 싣는 것을 분산한다. 짐(부하)을 분산한다 로 해석이 가능하며 IT관점에서는 CPU, 저장장치의 컴퓨터 자원을 분산한다는 개념으로 볼 수 있다.
 
